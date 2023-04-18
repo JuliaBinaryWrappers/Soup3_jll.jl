@@ -1,0 +1,143 @@
+[[Soup3]]
+arch = "aarch64"
+git-tree-sha1 = "55bf312e8e10af4e7326f8e4e3404c8fa16df1d2"
+os = "macos"
+
+    [[Soup3.download]]
+    sha256 = "9fbfcd98be1d301997f45930e78acb663f42a5e062507b3631d4fef000480e2a"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.aarch64-apple-darwin.tar.gz"
+[[Soup3]]
+arch = "aarch64"
+git-tree-sha1 = "9c091ba7a627e35fa772eb1a23651278345f4014"
+libc = "glibc"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "9304100aa71f03dcd4bbd63e245126bfe6a6d3f25d6982879b2b6d625e13e668"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.aarch64-linux-gnu.tar.gz"
+[[Soup3]]
+arch = "aarch64"
+git-tree-sha1 = "d7a0b298cca678e1b43f0bf0d45b6dc46ae618f7"
+libc = "musl"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "246cf940541fa17cba3eca713788e1e12e313900207a43480a1c7d89e4e8db0f"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.aarch64-linux-musl.tar.gz"
+[[Soup3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "649467d936b27603182ef741a56c140fc9b8622e"
+libc = "glibc"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "00a8eac9fddc148f99cfc089b486ee0c2a3ff90cc778a6065052d1cb48481300"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.armv6l-linux-gnueabihf.tar.gz"
+[[Soup3]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d0a16befab3a9f0f1c9f050d82fcda3b7edbac4d"
+libc = "musl"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "359d78bff4d3b8fcb7cd76f796b4a383cd5cf2962c8f367e16d050b067db429b"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.armv6l-linux-musleabihf.tar.gz"
+[[Soup3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7d0b3200585adf774d1dcabf1a81369d94dac0c0"
+libc = "glibc"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "30cdbcd1af9b479f776dddfed48752d747625474e2a8c225608d50f22bafd843"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.armv7l-linux-gnueabihf.tar.gz"
+[[Soup3]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2d01ba04bac5c5b630f1756b1293ee2ee9fe66c4"
+libc = "musl"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "904653eaf615a47a30254b62172f6f9462e9041aee2b338fdb6193693a78bc1b"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.armv7l-linux-musleabihf.tar.gz"
+[[Soup3]]
+arch = "i686"
+git-tree-sha1 = "4ac6fafd18ec34184740a965e555f6d72141188e"
+libc = "glibc"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "0f24b9ddab5793758949b018daf9efdcb57d4fc56ed81b2ba31afd4368ddd5cc"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.i686-linux-gnu.tar.gz"
+[[Soup3]]
+arch = "i686"
+git-tree-sha1 = "49c61bd682c0a87b5c79b24575888ec2f6cdaa76"
+libc = "musl"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "4d4afb02b97d3fc203073ad36e753bb02fc0bb62d728f6fa75effa7064673932"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.i686-linux-musl.tar.gz"
+[[Soup3]]
+arch = "i686"
+git-tree-sha1 = "723204e41d794ce1aeddf487984fa1804c51819e"
+os = "windows"
+
+    [[Soup3.download]]
+    sha256 = "4522264c655a2cf7c6445d60c8c54be6ec9f667fb74e751e67242af2b2aa7be6"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.i686-w64-mingw32.tar.gz"
+[[Soup3]]
+arch = "powerpc64le"
+git-tree-sha1 = "c824da3c14693ba5c29457f9f7a365a077a04872"
+libc = "glibc"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "2d0cb1455c63a747ab559a96e4143b8297f85e10cb57d2dde1190ccc0ae2fcf0"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.powerpc64le-linux-gnu.tar.gz"
+[[Soup3]]
+arch = "x86_64"
+git-tree-sha1 = "e8b59f9851e95a3927630c480d719bd4f84f4674"
+os = "macos"
+
+    [[Soup3.download]]
+    sha256 = "43a42e8bec6a5d756068d1867ccfb8c22685eb007cc76daf275850626456739a"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.x86_64-apple-darwin.tar.gz"
+[[Soup3]]
+arch = "x86_64"
+git-tree-sha1 = "d40759410626e7eabd5267b19eae0fc0b1723005"
+libc = "glibc"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "6acfa36a9d1b618f6d79ad1f3b628b6e0b99cfb6b28042d40db63a139bcf54e1"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.x86_64-linux-gnu.tar.gz"
+[[Soup3]]
+arch = "x86_64"
+git-tree-sha1 = "9ab949288984071dcef89eea9bcf9ee77fa843e2"
+libc = "musl"
+os = "linux"
+
+    [[Soup3.download]]
+    sha256 = "b97034e4a52d72c3c5be5e569bfb8670139e1a41f0d9b088512775e9e2e97d91"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.x86_64-linux-musl.tar.gz"
+[[Soup3]]
+arch = "x86_64"
+git-tree-sha1 = "859270fb379051a9db844c6253919e1e24a56f8e"
+os = "freebsd"
+
+    [[Soup3.download]]
+    sha256 = "7658a57fd3b342e7176d5b8d62233b604142f6b20cb5f59a37993840a2be46af"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.x86_64-unknown-freebsd.tar.gz"
+[[Soup3]]
+arch = "x86_64"
+git-tree-sha1 = "0396a865e5bbd79f8004e4538e1ae1d1988e7c63"
+os = "windows"
+
+    [[Soup3.download]]
+    sha256 = "a6c23cfec31287a5f506c8088f6e289676c72078d6507d6506323eb35bda7787"
+    url = "https://github.com/JuliaBinaryWrappers/Soup3_jll.jl/releases/download/Soup3-v3.2.1+0/Soup3.v3.2.1.x86_64-w64-mingw32.tar.gz"
